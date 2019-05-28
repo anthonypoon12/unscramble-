@@ -27,11 +27,12 @@ input[type="submit"]
     border-radius: 25px;
     font-family: 'Raleway', sans-serif;
     font-size:24px;
+    text-align: center;
 }
 
 .home
 {
-    padding-top: 300px;
+    padding-top: 8%;
     font-family: 'Raleway', sans-serif;
     text-transform: uppercase;
     font-size: 300%;
@@ -39,14 +40,10 @@ input[type="submit"]
     letter-spacing: -5px;
 }
 
-.h1
+.home-text
 {
-    text-align: center;
-
-}
-
-.h1 span
-{
-    border-radius: 10px;
+    border-radius: 15px;
+    padding: 10px;
     background-color: gray;
+    text-align: center;
 }

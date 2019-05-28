@@ -12,7 +12,11 @@ def check(a,theinput1):
             return 0
     return 1
     checker=theinput1
-theinput='awdhaow'#form.getvalue('theinput','')
+theinput2=form.getvalue('theinput','').lower()
+theinput=''
+for l in theinput2:
+    if ord(l) >= ord('a') and ord(l) <= ord('z'):
+        theinput += l
 f=open('dictall.txt','r')
 allwords=f.read().split('\n')
 f.close()
