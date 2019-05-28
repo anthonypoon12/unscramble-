@@ -29,11 +29,14 @@ thewords=[]
 for z in themaybewords:
     if check(z,theinput)==1:
         thewords.append(z)
+count=len(thewords)
 print('Content-Type: text/html\n')
 print('''
 <html>
 <body>
 %s
+<br>
+count: %s
 </body>
-</html>''' % (','.join(thewords)))
+</html>''' % (','.join(thewords),count))
 
