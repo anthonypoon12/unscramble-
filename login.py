@@ -3,7 +3,6 @@ import cgi
 import cgitb
 form=cgi.FieldStorage()
 cgitb.enable()
-text=''
 wrong=''
 username=form.getvalue('username','')
 password=form.getvalue('password','')
