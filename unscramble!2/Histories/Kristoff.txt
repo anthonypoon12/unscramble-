@@ -1,0 +1,8 @@
+Wed Jun 12 11:14:56 2019: 
+UNSCRAMBLED:
+input: grod
+range: All possible words
+specifics: 
+count: 6
+search: 
+*****

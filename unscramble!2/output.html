@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Unscramble!</title>
+    <link href="output.css" rel="stylesheet" type="text/css">
+    </head>
+<body>
+  <div class="topnav">
+<label>
+<span>
+    <form name="gohome" method="GET" action="gotohomepage.py">
+      <input name="home" type="image" src="logo4.PNG" alt="Submit" width="200" height="40">
+      <input name="username3" type="hidden" value="***username***">
+    </form>
+</span>
+    <form name="input" method="GET" action="bulk.py">
+      <input name="theinput" type="text" ID="ti" placeholder="Type something here...">
+     <input name="lessthan" type="text" ID="lt" placeholder="Less than...">
+                <input name="greaterthan" type="text" ID="gt" placeholder="Greater than...">
+                <input name="only" type="text" ID="o" placeholder="Only...">
+<input name="specifics" type="text" ID="gt" placeholder="Specifics...">
+
+&nbsp;&nbsp;
+<input name="newuserpass" type="hidden" value="***username***">
+		<input name="lookup" type="submit" value="Begin UNSCRAMBLING!">
+    </form>
+</label>
+<div class="idk">
+***logout***
+</div>
+
+  </div>
+<br>
+<br>
+<br>
+<br>
+<div class="words">
+<form name="philter" method="GET" action="bulk.py">
+<input name="less1" type="hidden" value="***lessthan***">
+<input name="great1" type="hidden"value="***greaterthan***"><input name="only1" type="hidden" value=***only***>
+<input name="search" type="text" placeholder="Search...">
+<input name="Search" type="submit" value="Search">
+<input name="theinput" type="hidden" value="***input***">
+<input name="newuserpass" type="hidden" value="***username***">
+</form>
+<br>
+<div class="words">
+<form name="search" method="GET" action="bulk.py">
+<input name="lessthan" type="text" ID="lt" placeholder="Less than...">
+<input name="greaterthan" type="text" ID="gt" placeholder="Greater than..."><input name="only" type="text" ID="o" placeholder="Only...">
+<input name="filter" type="text" placeholder="Specifics...">
+<input name="lookups" type="submit" value="Filter">
+<input name="theinput" type="hidden" value="***input***">
+<input name="newuserpass" type="hidden" value="***username***">
+</form>
+
+<b>Range:</b>&nbsp;***range***
+<br>
+<b>Count:</b>&nbsp;***count***
+<br>
+<b>Input:</b>&nbsp;***input***
+<br>
+<b>Specifics:</b>&nbsp;***specifics***
+<br>
+<br>
+<center>
+Think we're missing a word?
+<br>
+Want to leave feedback?
+<form name="misswords" method="GET" action="clickhere.py">
+<input name="clickhere" type="submit" value="Click Here">
+<input name="username3" type="hidden" value="***username***">
+</form>
+<br>
+<br>
+  <table>
+    <tr>
+      <td>
+        <center>
+<form method="GET" action="meaning.py">
+        ***thewords***
+ <input name="username" type="hidden" value="***username***">
+     </form>
+ </center>
+      </td>
+    </tr>
+  </table>
+</center>
+</div>
+</body>
+</html>

@@ -1,0 +1,20 @@
+Tue Jun 11 11:55:32 2019: 
+UNSCRAMBLED:
+input: bitch
+range: words with length less than 5
+specifics: 
+count: 10
+search: 
+*****
+Tue Jun 11 11:56:30 2019: 
+UNSCRAMBLED:
+input: happy
+range: words with length less than 5
+specifics: 
+count: 10
+search: 
+*****
+Tue Jun 11 11:56:41 2019
+DEFINED:
+ ya: N/A
+*****

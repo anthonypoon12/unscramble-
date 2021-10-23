@@ -1,0 +1,44 @@
+Wed Jun 12 02:53:01 2019: 
+UNSCRAMBLED:
+input: aleksdj
+range: words with length greater than 4
+specifics: 
+count: 11
+search: 
+*****
+Wed Jun 12 02:52:58 2019: 
+UNSCRAMBLED:
+input: aleksdj
+range: words with length greater than 5
+specifics: 
+count: 1
+search: 
+*****
+Wed Jun 12 02:52:48 2019: 
+UNSCRAMBLED:
+input: aleksdj
+range: All possible words
+specifics: 
+count: 44
+search: 
+*****
+Wed Jun 12 02:52:31 2019: 
+UNSCRAMBLED:
+input: hello
+range: All possible words
+specifics: 
+count: 11
+search: 
+*****
+Wed Jun 12 02:50:06 2019: 
+UNSCRAMBLED:
+input: interesting
+range: All possible words
+specifics: 
+count: 255
+search: 
+*****
+Wed Jun 12 02:53:12 2019
+DEFINED:
+ hello: noun: an expression of greeting
+*****

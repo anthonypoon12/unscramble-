@@ -1,0 +1,268 @@
+Sun Jun 16 17:49:27 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Sat Jun 15 09:22:50 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Fri Jun 14 16:31:44 2019: 
+UNSCRAMBLED:
+input: ghjggjo
+range: All possible words
+specifics: 
+count: 5
+search: 
+*****
+Fri Jun 14 16:31:15 2019: 
+UNSCRAMBLED:
+input: ghjggjo
+range: All possible words
+specifics: 
+count: 5
+search: 
+*****
+Fri Jun 14 01:23:39 2019
+DEFINED:
+ bid: noun: an authoritative direction or instruction to do something<br> an attempt to get something<br> a formal proposal to buy at a specified price<br> the number of tricks a bridge player is willing to contract to make<br>verb: propose a payment<br> invoke upon<br> ask for or request earnestly<br> make a demand, as for a card or a suit or a show of hands<br> make a serious effort to attain something<br> ask someone in a friendly way to do something
+*****
+Thu Jun 13 20:47:29 2019: 
+UNSCRAMBLED:
+input: awdseghsersef
+range: All possible words
+specifics: 
+count: 35
+search: ad
+*****
+Thu Jun 13 20:47:27 2019: 
+UNSCRAMBLED:
+input: awdseghsersef
+range: All possible words
+specifics: 
+count: 3
+search: heres
+*****
+Thu Jun 13 20:47:23 2019: 
+UNSCRAMBLED:
+input: awdseghsersef
+range: All possible words
+specifics: 
+count: 7
+search: here
+*****
+Thu Jun 13 20:47:14 2019: 
+UNSCRAMBLED:
+input: awdseghsersef
+range: All possible words
+specifics: 
+count: 380
+search: 
+*****
+Thu Jun 13 20:47:02 2019: 
+UNSCRAMBLED:
+input: adasefgsdrhdrh
+range: All possible words
+specifics: 
+count: 2
+search: dres
+*****
+Thu Jun 13 20:46:51 2019: 
+UNSCRAMBLED:
+input: adasefgsdrhdrh
+range: All possible words
+specifics: 
+count: 52
+search: ad
+*****
+Thu Jun 13 20:46:47 2019: 
+UNSCRAMBLED:
+input: adasefgsdrhdrh
+range: All possible words
+specifics: 
+count: 228
+search: 
+*****
+Thu Jun 13 18:06:12 2019: 
+UNSCRAMBLED:
+input: fkkdjrjrjrriiucuvyb
+range: All possible words
+specifics: 
+count: 0
+search: Ri
+*****
+Thu Jun 13 18:02:50 2019: 
+UNSCRAMBLED:
+input: fkkdjrjrjrriiucuvyb
+range: All possible words
+specifics: 
+count: 61
+search: 
+*****
+Thu Jun 13 18:02:43 2019: 
+UNSCRAMBLED:
+input: fkkdjrjrjrriiucuvyb
+range: All possible words
+specifics: 
+count: 61
+search: 
+*****
+Thu Jun 13 18:02:02 2019: 
+UNSCRAMBLED:
+input: fkkdjrjrjrriiucuvyb
+range: All possible words
+specifics: 
+count: 61
+search: 
+*****
+Thu Jun 13 18:01:58 2019: 
+UNSCRAMBLED:
+input: fkkdjrjrjrriiucuvyb
+range: All possible words
+specifics: 
+count: 61
+search: 
+*****
+Thu Jun 13 18:01:50 2019: 
+UNSCRAMBLED:
+input: fkkdjrjrjrriiucuvyb
+range: All possible words
+specifics: 
+count: 61
+search: 
+*****
+Thu Jun 13 18:01:41 2019: 
+UNSCRAMBLED:
+input: fkkdjrjrjrriiucuvyb
+range: All possible words
+specifics: 
+count: 61
+search: 
+*****
+Thu Jun 13 18:01:35 2019: 
+UNSCRAMBLED:
+input: fkkdjrjrjrriiucuvyb
+range: All possible words
+specifics: 
+count: 61
+search: 
+*****
+Thu Jun 13 09:52:54 2019: 
+UNSCRAMBLED:
+input: dfsdfgh
+range: All possible words
+specifics: 
+count: 1
+search: 
+*****
+Tue Jun 11 00:01:57 2019: 
+UNSCRAMBLED:
+input: efkusehfiusef
+range: All possible words
+specifics: 
+count: 67
+search: 
+*****
+Tue Jun 11 00:03:47 2019: 
+UNSCRAMBLED:
+input: efkusehfiusef
+range: All possible words
+specifics: 
+count: 67
+search: 
+*****
+Tue Jun 11 00:16:47 2019: 
+UNSCRAMBLED:
+input: fugyjkghjfgfg
+range: All possible words
+specifics: 1st is y
+count: 1
+search: 
+*****
+Tue Jun 11 00:18:37 2019: 
+UNSCRAMBLED:
+input: fugyjkghjfgfg
+range: All possible words
+specifics: 1st is y
+count: 1
+search: 
+*****
+Tue Jun 11 00:37:29 2019
+DEFINED:
+ form: noun: the phonological or orthographic sound or appearance of a word that can be used to describe or identify something<br> a category of things distinguished by some common characteristic or quality<br> a perceptual structure<br> any spatial attributes (especially as defined by outline)<br> alternative names for the body of a human being<br> the spatial arrangement of something as distinct from its substance<br> the visual appearance of something or someone<br> a printed document with spaces in which to write<br> a group of organisms within a species that differ in trivial ways from similar groups<br> an arrangement of the elements in a composition or discourse<br> a particular mode in which something is manifested<br> a distinct state of matter in a system; matter that is identical in chemical composition and physical state and separated from other material by the phase boundary<br> a body of students who are taught together<br> an ability to perform well<br> a life-size dummy used to display clothes<br> a mold for setting concrete<br>verb: create (as an entity)<br> to compose or represent:<br> develop into a distinctive entity<br> give shape or form to<br> make something& usually for a specific function<br> establish or impress firmly in the mind<br> assume a form or shape
+*****
+Tue Jun 11 00:37:37 2019
+DEFINED:
+ fit: noun: a display of bad temper<br> a sudden uncontrollable attack<br> the manner in which something fits<br> a sudden flurry of activity (often for no obvious reason)<br>verb: be agreeable or acceptable to<br> be the right size or shape; fit correctly or as desired<br> satisfy a condition or restriction<br> make fit<br> insert or adjust several objects or people<br> be compatible& similar or consistent; coincide in their characteristics<br> conform to some shape or size<br> provide with (something) usually for a specific purpose<br> make correspond or harmonize<br>adjective: meeting adequate standards for a purpose<br> on the point of or strongly disposed<br> physically and mentally sound or healthy
+*****
+Tue Jun 11 00:56:57 2019: 
+UNSCRAMBLED:
+input: kuhjfjhgb
+range: All possible words
+specifics: 
+count: 7
+search: 
+*****
+Tue Jun 11 02:10:38 2019: 
+UNSCRAMBLED:
+input: srgtdrg
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 02:16:10 2019: 
+UNSCRAMBLED:
+input: srgtdrg
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:13:59 2019
+DEFINED:
+ grow: verb: pass into a condition gradually, take on a specific property or attribute; become<br> become larger, greater, or bigger; expand or gain<br> increase in size by natural process<br> cause to grow or develop<br> develop and reach maturity; undergo maturation<br> come into existence; take on form or shape<br> cultivate by growing, often involving improvements by means of agricultural techniques<br> come to have or undergo a change of (physical features and attributes)<br> grow emotionally or mature<br> become attached by or as if by the process of growth
+*****
+Tue Jun 11 03:23:00 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:25:54 2019
+DEFINED:
+ red: noun: red color or pigment; the chromatic color resembling the hue of blood<br> a tributary of the Mississippi River that flows eastward from Texas along the southern boundary of Oklahoma and through Louisiana<br> emotionally charged terms used to refer to extreme radicals or revolutionaries<br> the amount by which the cost of a business exceeds its revenue<br>adjective: of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies<br> characterized by violence or bloodshed- Andrea Parke- Thomas Gray- Hudson Strode<br> reddened or suffused with or as if with blood from emotion or exertion
+*****
+Tue Jun 11 03:29:13 2019
+DEFINED:
+ red: noun: red color or pigment; the chromatic color resembling the hue of blood<br> a tributary of the Mississippi River that flows eastward from Texas along the southern boundary of Oklahoma and through Louisiana<br> emotionally charged terms used to refer to extreme radicals or revolutionaries<br> the amount by which the cost of a business exceeds its revenue<br>adjective: of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies<br> characterized by violence or bloodshed- Andrea Parke- Thomas Gray- Hudson Strode<br> reddened or suffused with or as if with blood from emotion or exertion
+*****
+Tue Jun 11 04:02:03 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Wed Jun 12 02:21:27 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Thu Jun 13 18:06:18 2019
+DEFINED:
+ buck: noun: a gymnastic horse without pommels and with one end elongated; used lengthwise for vaulting<br> a piece of paper money worth one dollar<br> United States author whose novels drew on her experiences as a missionary in China (1892-1973)<br> a framework for holding wood that is being sawed<br> mature male of various mammals (especially deer or antelope)<br>verb: to strive with determination<br> resist<br> move quickly and violently<br> jump vertically, with legs stiff and back arched
+*****

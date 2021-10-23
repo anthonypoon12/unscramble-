@@ -1,0 +1,44 @@
+Tue Jun 11 03:03:34 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Tue Jun 11 03:03:51 2019: 
+UNSCRAMBLED:
+input: asdasderf
+range: words with length less than 3
+specifics: 
+count: 5
+search: 
+*****
+Tue Jun 11 03:04:00 2019
+DEFINED:
+ ate: verb: take in solid food<br> eat a meal; take a meal<br> take in food; used of animals only<br> worry or cause anxiety in a persistent way<br> use up (resources or materials)<br> cause to deteriorate due to the action of water, air, or an acid
+*****
+Tue Jun 11 03:05:23 2019
+DEFINED:
+ ate: verb: take in solid food<br> eat a meal; take a meal<br> take in food; used of animals only<br> worry or cause anxiety in a persistent way<br> use up (resources or materials)<br> cause to deteriorate due to the action of water, air, or an acid
+*****
+Tue Jun 11 03:05:24 2019
+DEFINED:
+ ate: verb: take in solid food<br> eat a meal; take a meal<br> take in food; used of animals only<br> worry or cause anxiety in a persistent way<br> use up (resources or materials)<br> cause to deteriorate due to the action of water, air, or an acid
+*****
+Tue Jun 11 03:07:28 2019
+DEFINED:
+ ate: verb: take in solid food<br> eat a meal; take a meal<br> take in food; used of animals only<br> worry or cause anxiety in a persistent way<br> use up (resources or materials)<br> cause to deteriorate due to the action of water, air, or an acid
+*****
+Tue Jun 11 03:08:17 2019
+DEFINED:
+ ate: verb: take in solid food<br> eat a meal; take a meal<br> take in food; used of animals only<br> worry or cause anxiety in a persistent way<br> use up (resources or materials)<br> cause to deteriorate due to the action of water, air, or an acid
+*****
+Tue Jun 11 03:09:11 2019
+DEFINED:
+ ate: verb: take in solid food<br> eat a meal; take a meal<br> take in food; used of animals only<br> worry or cause anxiety in a persistent way<br> use up (resources or materials)<br> cause to deteriorate due to the action of water, air, or an acid
+*****
+Tue Jun 11 03:09:23 2019
+DEFINED:
+ ate: verb: take in solid food<br> eat a meal; take a meal<br> take in food; used of animals only<br> worry or cause anxiety in a persistent way<br> use up (resources or materials)<br> cause to deteriorate due to the action of water, air, or an acid
+*****

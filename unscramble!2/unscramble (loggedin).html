@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Unscramble!</title>
+<link href="unscramblelog.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div class="input1">
+<div class="topnav">
+<div class="log">
+<label>
+<span>
+        <form name="hist" method="POST" action="history.py">
+            <input name="history" type="submit" value="History">
+            <input name="username2" type="hidden" value="***username***">
+        </form>
+</span>
+        <form name="lout" method="POST" action="unscramble.html">
+            <input name="logout" type="submit" value="Logout">
+        </form>
+</label>
+</div>
+</div>
+</div>
+<div class="welcomemsg">
+                        <center>Welcome back, ***username***!</center>
+</div>
+<br>
+	<div class="home">
+		<img src="logo5.PNG" alt="logo" width="40%" height="15%">
+<div class="input2">
+<form name="input" method="GET" action="bulk.py">
+<div class="tooltip"><input name="theinput" type="text" ID="ti" placeholder="Type letters here..."><span class="tooltiptext">Type any set of letters here for a list of all words made up of those letters.</span>
+</div>		
+<br>
+<div class="tooltip"><input name="specifics" type="text" ID="sp" placeholder="Specifics..."><span class="tooltiptext">Specify the letters of a word.<br> Ex: 1:a,2:b,3:c would find all words with the first letter 'a', second 'b', etc...</span>
+</div>
+<br>
+<div class="tooltip"> <input name="lessthan" type="text" ID="lt" placeholder="Less than...">
+<span class="tooltiptext">Enter the number of letters you want the word to have less than.<br> Ex: 5 would find all words with 4 letters or less.</span> 
+</div>   
+<div class="tooltip"><input name="greaterthan" type="text" ID="gt" placeholder="Greater than...">
+<span class="tooltiptext">Enter the number of letters you want the word to have more than.<br> Ex: 5 would find all words with 6 letters or more.</span>
+</div>
+<div class="tooltip"><input name="only" type="text" ID="o" placeholder="Only...">
+<span class="tooltiptext">Enter the number of letters you want the word to have.<br> Ex: 5 would find all words with 5 letters.</span>
+</div>
+<br>
+<input name="lookup" type="submit" value="Begin UNSCRAMBLING!">
+<br>
+<br>
+<input name="newuserpass" type="hidden" value="***username***">
+</form>
+<form name="input" method="GET" action="meaning.py">
+<div class="tooltip"><input name="word" type="text" ID="wd" placeholder="Type word here..."><span class="tooltiptext">Type a specific word here for a definition.<br> Note: If using this search, do not use the other search functions.</span>
+</div>
+<input name="username" type="hidden" value="***username***">
+<br>
+<input name="define" type="submit" value="Define">
+</form>
+
+</body>
+</html>

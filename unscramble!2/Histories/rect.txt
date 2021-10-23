@@ -1,0 +1,68 @@
+Thu Jun 13 21:38:00 2019
+DEFINED:
+ er: N/A
+*****
+Thu Jun 13 21:37:54 2019
+DEFINED:
+ rock: noun: a lump or mass of hard consolidated mineral matter<br> material consisting of the aggregate of minerals like those making up the Earth's crust<br> United States gynecologist and devout Catholic who conducted the first clinical trials of the oral contraceptive pill (1890-1984)<br> someone who is strong and stable and dependable--Gospel According to Matthew<br> hard bright-colored stick candy (typically flavored with peppermint)<br> a genre of popular music originating in the 1950s; a blend of black rhythm-and-blues with white country-and-western<br> pitching dangerously to one side<br>verb: move back and forth or sideways<br> cause to move back and forth
+*****
+Thu Jun 13 21:36:03 2019
+DEFINED:
+ add: noun: a condition (mostly in boys) characterized by behavioral and learning disorders<br>verb: make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of<br> state or say further<br> bestow a quality on<br> make an addition by combining numbers<br> determine the sum of<br> constitute an addition
+*****
+Thu Jun 13 21:35:52 2019: 
+UNSCRAMBLED:
+input: awfdthdrhfgrgdrg
+range: words with length of 3
+specifics: 
+count: 8
+search: ad
+*****
+Thu Jun 13 21:35:39 2019: 
+UNSCRAMBLED:
+input: awfdthdrhfgrgdrg
+range: words with length of 3
+specifics: 
+count: 27
+search: 
+*****
+Thu Jun 13 21:35:29 2019: 
+UNSCRAMBLED:
+input: awfdthdrhfgrgdrg
+range: words with length of 3
+specifics: 
+count: 0
+search: 
+*****
+Thu Jun 13 21:35:21 2019: 
+UNSCRAMBLED:
+input: awfdthdrhfgrgdrg
+range: words with length less than 5 AND greater than 1
+specifics: 
+count: 53
+search: 
+*****
+Thu Jun 13 21:34:56 2019: 
+UNSCRAMBLED:
+input: aiwjiosdvsdjhsejfboiawjdioajhf
+range: All possible words
+specifics: 3rd is f<br><br>1st is b
+count: 1
+search: 
+*****
+Thu Jun 13 21:34:42 2019: 
+UNSCRAMBLED:
+input: xgjtetyergdrgsrgfb
+range: All possible words
+specifics: 3rd is f<br><br>1st is b
+count: 0
+search: 
+*****
+Thu Jun 13 21:33:59 2019: 
+UNSCRAMBLED:
+input: zflsefehfoehfioae
+range: All possible words
+specifics: 
+count: 186
+search: 
+*****

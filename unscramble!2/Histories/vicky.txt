@@ -1,0 +1,16 @@
+Wed Jun 19 20:48:46 2019: 
+UNSCRAMBLED:
+input: djgksgkjrdgsjaa
+range: All possible words
+specifics: 
+count: 13
+search: ad
+*****
+Wed Jun 19 20:48:40 2019: 
+UNSCRAMBLED:
+input: djgksgkjrdgsjaa
+range: All possible words
+specifics: 
+count: 49
+search: 
+*****

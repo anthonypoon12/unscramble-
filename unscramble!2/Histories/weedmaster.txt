@@ -1,0 +1,728 @@
+Thu Jun 13 21:49:59 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Thu Jun 13 21:49:00 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Thu Jun 13 21:48:47 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Thu Jun 13 21:47:25 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Thu Jun 13 21:46:47 2019
+DEFINED:
+ ad: noun: a public promotion of some product or service<br>adverb: in the Christian era; used before dates after the supposed year Christ was born
+*****
+Thu Jun 13 21:46:39 2019: 
+UNSCRAMBLED:
+input: asdsad
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Thu Jun 13 18:02:03 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Thu Jun 13 18:01:57 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 00:57:21 2019: 
+UNSCRAMBLED:
+input: fgeaqhj
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Tue Jun 11 00:58:22 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 00:58:29 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 00:58:46 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 00:59:23 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 00:59:50 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 01:00:13 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 01:00:14 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 01:00:31 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 01:00:37 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 01:01:31 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 01:01:44 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 01:01:57 2019
+DEFINED:
+ asd: N/A
+*****
+Tue Jun 11 01:12:30 2019
+DEFINED:
+ hello: noun: an expression of greeting
+*****
+Tue Jun 11 01:13:19 2019
+DEFINED:
+ hello: noun: an expression of greeting
+*****
+Tue Jun 11 01:16:48 2019
+DEFINED:
+ hello: noun: an expression of greeting
+*****
+Tue Jun 11 01:17:10 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 01:18:21 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 01:18:48 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 01:19:00 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 01:19:23 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 01:19:30 2019
+DEFINED:
+ hello: noun: an expression of greeting
+*****
+Tue Jun 11 01:20:48 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 01:21:45 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Tue Jun 11 01:22:48 2019: 
+UNSCRAMBLED:
+input: asdsad
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Tue Jun 11 01:30:07 2019
+DEFINED:
+ asd: N/A
+*****
+Tue Jun 11 01:30:25 2019
+DEFINED:
+ asd: N/A
+*****
+Tue Jun 11 01:30:29 2019
+DEFINED:
+ asd: N/A
+*****
+Tue Jun 11 01:30:30 2019
+DEFINED:
+ asd: N/A
+*****
+Tue Jun 11 01:30:31 2019
+DEFINED:
+ asd: N/A
+*****
+Tue Jun 11 01:30:59 2019
+DEFINED:
+ asd: N/A
+*****
+Tue Jun 11 01:31:00 2019
+DEFINED:
+ asd: N/A
+*****
+Tue Jun 11 01:31:06 2019
+DEFINED:
+ asd: N/A
+*****
+Tue Jun 11 01:31:14 2019
+DEFINED:
+ asd: N/A
+*****
+Tue Jun 11 01:31:15 2019
+DEFINED:
+ asd: N/A
+*****
+Tue Jun 11 02:38:13 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 02:42:06 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 02:43:06 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 02:44:04 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Tue Jun 11 02:44:52 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Tue Jun 11 02:52:09 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Tue Jun 11 02:53:39 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Tue Jun 11 02:54:31 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Tue Jun 11 02:54:52 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Tue Jun 11 02:55:40 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Tue Jun 11 02:56:05 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Tue Jun 11 02:58:53 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Tue Jun 11 02:59:36 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Tue Jun 11 02:59:56 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Tue Jun 11 03:01:59 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:02:13 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Tue Jun 11 03:09:57 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Tue Jun 11 03:11:28 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:12:09 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:13:31 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:13:42 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:13:57 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:14:00 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:14:08 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:18:35 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:21:40 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:22:49 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:23:01 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:24:31 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:24:46 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:27:06 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:29:16 2019
+DEFINED:
+ hello: noun: an expression of greeting
+*****
+Tue Jun 11 03:35:59 2019: 
+UNSCRAMBLED:
+input: sadasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Tue Jun 11 03:36:01 2019
+DEFINED:
+ ad: noun: a public promotion of some product or service<br>adverb: in the Christian era; used before dates after the supposed year Christ was born
+*****
+Tue Jun 11 03:36:10 2019: 
+UNSCRAMBLED:
+input: ace
+range: All possible words
+specifics: 1st is a<br><br>2nd is c
+count: 1
+search: 
+*****
+Tue Jun 11 03:36:13 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Tue Jun 11 03:42:41 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:47:19 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:50:40 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:51:04 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:52:08 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:53:43 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:55:28 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Tue Jun 11 03:55:47 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:56:00 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 04:00:02 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 04:01:35 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 04:01:55 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 04:04:24 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 04:05:26 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 22:32:54 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 22:33:26 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 22:37:06 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 22:38:22 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 22:42:35 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 22:42:45 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 22:44:17 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****

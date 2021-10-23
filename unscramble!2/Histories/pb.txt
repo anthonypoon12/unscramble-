@@ -1,0 +1,16 @@
+Tue Jun 18 21:41:01 2019: 
+UNSCRAMBLED:
+input: harp
+range: All possible words
+specifics: 
+count: 2
+search: ah
+*****
+Tue Jun 18 21:40:38 2019: 
+UNSCRAMBLED:
+input: harp
+range: All possible words
+specifics: 
+count: 8
+search: 
+*****

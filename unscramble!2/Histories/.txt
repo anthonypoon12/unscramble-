@@ -1,0 +1,2080 @@
+Fri Jun 21 19:53:50 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Wed Jun 19 23:55:05 2019: 
+UNSCRAMBLED:
+input: harp
+range: All possible words
+specifics: 
+count: 2
+search: ah
+*****
+Wed Jun 19 23:55:03 2019: 
+UNSCRAMBLED:
+input: harp
+range: All possible words
+specifics: 
+count: 8
+search: 
+*****
+Wed Jun 19 20:48:19 2019: 
+UNSCRAMBLED:
+input: sjrlgjfjlrsfrfoisaab
+range: All possible words
+specifics: 
+count: 357
+search: 
+*****
+Wed Jun 19 20:47:58 2019: 
+UNSCRAMBLED:
+input: sjrlgjfjlrsfrfoisaab
+range: words with length less than 5
+specifics: 
+count: 202
+search: 
+*****
+Wed Jun 19 20:47:48 2019: 
+UNSCRAMBLED:
+input: sjrlgjfjlrsfrfoisaab
+range: All possible words
+specifics: 1st is a
+count: 32
+search: 
+*****
+Wed Jun 19 20:47:27 2019: 
+UNSCRAMBLED:
+input: aejfhrkskfhliwfliehf
+range: All possible words
+specifics: 
+count: 582
+search: 
+*****
+Tue Jun 18 21:39:04 2019: 
+UNSCRAMBLED:
+input: carthorse
+range: words with length greater than 8
+specifics: 
+count: 2
+search: 
+*****
+Tue Jun 18 21:38:49 2019: 
+UNSCRAMBLED:
+input: carthorse
+range: All possible words
+specifics: 
+count: 329
+search: 
+*****
+Tue Jun 18 21:38:22 2019: 
+UNSCRAMBLED:
+input: red
+range: words with length less than 4
+specifics: 
+count: 3
+search: 
+*****
+Tue Jun 18 21:38:07 2019: 
+UNSCRAMBLED:
+input: red
+range: words with length greater than 5
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 18 21:37:52 2019: 
+UNSCRAMBLED:
+input: spot
+range: All possible words
+specifics: 
+count: 15
+search: 
+*****
+Tue Jun 18 21:37:25 2019: 
+UNSCRAMBLED:
+input: abc
+range: All possible words
+specifics: 
+count: 1
+search: 
+*****
+Tue Jun 18 21:37:12 2019: 
+UNSCRAMBLED:
+input: fred
+range: words with length greater than 5
+specifics: 
+count: 0
+search: abc
+*****
+Tue Jun 18 21:36:52 2019: 
+UNSCRAMBLED:
+input: fred
+range: words with length greater than 5
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 18 21:36:26 2019: 
+UNSCRAMBLED:
+input: astye
+range: words with length greater than 5
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 18 10:04:40 2019: 
+UNSCRAMBLED:
+input: lejenknnnvfhvnlsjeiaonxje
+range: All possible words
+specifics: 
+count: 688
+search: 
+*****
+Mon Jun 17 16:01:41 2019: 
+UNSCRAMBLED:
+input: deluxe
+range: words with length of 3
+specifics: 2nd is e
+count: 3
+search: 
+*****
+Mon Jun 17 13:03:11 2019: 
+UNSCRAMBLED:
+input: dfgsdgwsafsdxcgf
+range: All possible words
+specifics: 
+count: 47
+search: 
+*****
+Mon Jun 17 12:53:35 2019: 
+UNSCRAMBLED:
+input: gvae
+range: All possible words
+specifics: 
+count: 3
+search: 
+*****
+Mon Jun 17 11:01:41 2019: 
+UNSCRAMBLED:
+input: rghit
+range: All possible words
+specifics: 
+count: 10
+search: 
+*****
+Mon Jun 17 01:10:54 2019: 
+UNSCRAMBLED:
+input: dfgdfg
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Mon Jun 17 00:23:43 2019: 
+UNSCRAMBLED:
+input: kath
+range: words with length less than 5
+specifics: 
+count: 4
+search: 
+*****
+Sun Jun 16 22:27:54 2019: 
+UNSCRAMBLED:
+input: abcde
+range: All possible words
+specifics: 
+count: 15
+search: 
+*****
+Sun Jun 16 15:17:19 2019: 
+UNSCRAMBLED:
+input: reggin
+range: All possible words
+specifics: 
+count: 15
+search: 
+*****
+Sun Jun 16 15:04:27 2019: 
+UNSCRAMBLED:
+input: ginner
+range: All possible words
+specifics: 
+count: 14
+search: 
+*****
+Sun Jun 16 12:38:45 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Sat Jun 15 09:22:32 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Fri Jun 14 16:45:42 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Fri Jun 14 16:44:09 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Fri Jun 14 16:43:54 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Fri Jun 14 16:40:59 2019: 
+UNSCRAMBLED:
+input: hskebskdllnwbso
+range: All possible words
+specifics: 1st is h<br><br>3rd is l
+count: 10
+search: 
+*****
+Fri Jun 14 16:31:14 2019: 
+UNSCRAMBLED:
+input: dhskdbej
+range: All possible words
+specifics: 
+count: 14
+search: 
+*****
+Fri Jun 14 15:08:28 2019: 
+UNSCRAMBLED:
+input: aewsrdtyf
+range: words with length less than 30 AND greater than 2
+specifics: 
+count: 272
+search: 
+*****
+Fri Jun 14 15:06:27 2019: 
+UNSCRAMBLED:
+input: aewsrdtyf
+range: All possible words
+specifics: 
+count: 283
+search: 
+*****
+Thu Jun 13 22:14:23 2019: 
+UNSCRAMBLED:
+input: awdaefse
+range: All possible words
+specifics: 
+count: 52
+search: 
+*****
+Thu Jun 13 21:48:52 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Thu Jun 13 21:48:34 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Thu Jun 13 21:45:56 2019: 
+UNSCRAMBLED:
+input: hello
+range: words with length of 6
+specifics: 
+count: 0
+search: 
+*****
+Thu Jun 13 21:45:40 2019: 
+UNSCRAMBLED:
+input: hello
+range: words with length less than 10 AND greater than 5
+specifics: 
+count: 0
+search: 
+*****
+Thu Jun 13 21:44:59 2019: 
+UNSCRAMBLED:
+input: hello
+range: All possible words
+specifics: 
+count: 11
+search: 
+*****
+Thu Jun 13 21:42:55 2019: 
+UNSCRAMBLED:
+input: sdfseaw
+range: All possible words
+specifics: 
+count: 42
+search: 
+*****
+Thu Jun 13 21:42:48 2019: 
+UNSCRAMBLED:
+input: hello
+range: All possible words
+specifics: 
+count: 1
+search: hoe
+*****
+Thu Jun 13 21:42:46 2019: 
+UNSCRAMBLED:
+input: hello
+range: All possible words
+specifics: 
+count: 3
+search: ho
+*****
+Thu Jun 13 21:42:39 2019: 
+UNSCRAMBLED:
+input: hello
+range: All possible words
+specifics: 
+count: 3
+search: ho
+*****
+Thu Jun 13 21:42:35 2019: 
+UNSCRAMBLED:
+input: hello
+range: All possible words
+specifics: 
+count: 11
+search: 
+*****
+Thu Jun 13 21:42:18 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Thu Jun 13 21:42:13 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Thu Jun 13 21:42:08 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 1
+search: as
+*****
+Thu Jun 13 21:42:03 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Thu Jun 13 21:41:52 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Thu Jun 13 21:41:35 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: qwerty
+*****
+Thu Jun 13 21:41:29 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Thu Jun 13 21:41:25 2019: 
+UNSCRAMBLED:
+input: asdsada
+range: All possible words
+specifics: 
+count: 0
+search: fasdfawd
+*****
+Thu Jun 13 21:41:05 2019: 
+UNSCRAMBLED:
+input: asdsada
+range: All possible words
+specifics: 
+count: 0
+search: fasdfawd
+*****
+Thu Jun 13 21:41:03 2019: 
+UNSCRAMBLED:
+input: asdsada
+range: All possible words
+specifics: 
+count: 0
+search: fasdfawd
+*****
+Thu Jun 13 21:40:58 2019: 
+UNSCRAMBLED:
+input: asdsada
+range: All possible words
+specifics: 
+count: 0
+search: asdasd
+*****
+Thu Jun 13 21:40:55 2019: 
+UNSCRAMBLED:
+input: asdsada
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Thu Jun 13 21:31:38 2019: 
+UNSCRAMBLED:
+input: awdsegsef
+range: All possible words
+specifics: 
+count: 99
+search: 
+*****
+Thu Jun 13 20:29:33 2019: 
+UNSCRAMBLED:
+input: rgdthdrgsegsrg
+range: All possible words
+specifics: 
+count: 41
+search: 
+*****
+Thu Jun 13 20:29:17 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Thu Jun 13 20:29:13 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Thu Jun 13 20:29:09 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Thu Jun 13 20:24:44 2019: 
+UNSCRAMBLED:
+input: awdawdafrh
+range: All possible words
+specifics: 
+count: 1
+search: dd
+*****
+Thu Jun 13 20:24:40 2019: 
+UNSCRAMBLED:
+input: awdawdafrh
+range: All possible words
+specifics: 
+count: 25
+search: 
+*****
+Thu Jun 13 20:24:33 2019: 
+UNSCRAMBLED:
+input: awdgxdjhxtfhf
+range: All possible words
+specifics: 
+count: 9
+search: ad
+*****
+Thu Jun 13 20:23:52 2019: 
+UNSCRAMBLED:
+input: awdgxdjhxtfhf
+range: All possible words
+specifics: 
+count: 0
+search: AD
+*****
+Thu Jun 13 20:23:39 2019: 
+UNSCRAMBLED:
+input: awdgxdjhxtfhf
+range: All possible words
+specifics: 
+count: 9
+search: ad
+*****
+Thu Jun 13 20:23:35 2019: 
+UNSCRAMBLED:
+input: awdgxdjhxtfhf
+range: All possible words
+specifics: 
+count: 37
+search: 
+*****
+Thu Jun 13 18:14:53 2019: 
+UNSCRAMBLED:
+input: asdsadsa
+range: All possible words
+specifics: 
+count: 10
+search: 
+*****
+Thu Jun 13 18:14:00 2019: 
+UNSCRAMBLED:
+input: feasfea
+range: All possible words
+specifics: 
+count: 0
+search: afeasdewa
+*****
+Thu Jun 13 18:13:56 2019: 
+UNSCRAMBLED:
+input: feasfea
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Thu Jun 13 18:13:52 2019: 
+UNSCRAMBLED:
+input: safgwa
+range: All possible words
+specifics: 
+count: 0
+search: feafe
+*****
+Thu Jun 13 18:13:45 2019: 
+UNSCRAMBLED:
+input: safgwa
+range: All possible words
+specifics: 
+count: 14
+search: 
+*****
+Thu Jun 13 18:13:33 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: sadasd
+*****
+Thu Jun 13 18:13:30 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Thu Jun 13 18:13:22 2019: 
+UNSCRAMBLED:
+input: asgeqaefe
+range: All possible words
+specifics: 
+count: 20
+search: 
+*****
+Thu Jun 13 18:13:19 2019: 
+UNSCRAMBLED:
+input: asffge
+range: All possible words
+specifics: 
+count: 16
+search: 
+*****
+Thu Jun 13 18:13:16 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: asdfad
+*****
+Thu Jun 13 18:13:13 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Thu Jun 13 18:06:21 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: QWRFGVDA
+*****
+Thu Jun 13 18:06:19 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Thu Jun 13 18:06:13 2019: 
+UNSCRAMBLED:
+input: asfgeqag
+range: All possible words
+specifics: 
+count: 0
+search: asfsaf
+*****
+Thu Jun 13 18:06:10 2019: 
+UNSCRAMBLED:
+input: asfgeqag
+range: All possible words
+specifics: 
+count: 0
+search: ASFWEA
+*****
+Thu Jun 13 18:05:53 2019: 
+UNSCRAMBLED:
+input: asfgeqag
+range: All possible words
+specifics: 
+count: 20
+search: 
+*****
+Thu Jun 13 18:05:04 2019: 
+UNSCRAMBLED:
+input: qwdcfcea
+range: All possible words
+specifics: 
+count: 28
+search: 
+*****
+Thu Jun 13 18:04:58 2019: 
+UNSCRAMBLED:
+input: asfweqwe
+range: All possible words
+specifics: 
+count: 21
+search: 
+*****
+Thu Jun 13 18:04:53 2019: 
+UNSCRAMBLED:
+input: unscramble
+range: All possible words
+specifics: 
+count: 449
+search: 
+*****
+Thu Jun 13 18:04:35 2019: 
+UNSCRAMBLED:
+input: hello
+range: All possible words
+specifics: 
+count: 11
+search: 
+*****
+Thu Jun 13 18:04:11 2019: 
+UNSCRAMBLED:
+input: sdagda
+range: All possible words
+specifics: 
+count: 0
+search: hello
+*****
+Thu Jun 13 18:04:07 2019: 
+UNSCRAMBLED:
+input: sdagda
+range: All possible words
+specifics: 
+count: 0
+search: bgrqasdc
+*****
+Thu Jun 13 18:04:04 2019: 
+UNSCRAMBLED:
+input: sdagda
+range: All possible words
+specifics: 
+count: 0
+search: qwefas
+*****
+Thu Jun 13 18:04:00 2019: 
+UNSCRAMBLED:
+input: sdagda
+range: All possible words
+specifics: 
+count: 0
+search: asdsffsa
+*****
+Thu Jun 13 18:03:55 2019: 
+UNSCRAMBLED:
+input: sdagda
+range: All possible words
+specifics: 
+count: 13
+search: 
+*****
+Thu Jun 13 18:03:50 2019: 
+UNSCRAMBLED:
+input: asad
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Thu Jun 13 18:03:45 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 0
+search: dhgdAFa
+*****
+Thu Jun 13 18:03:09 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Thu Jun 13 18:03:04 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Thu Jun 13 18:02:56 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Thu Jun 13 18:02:42 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Thu Jun 13 18:02:41 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Thu Jun 13 18:02:40 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Thu Jun 13 18:02:39 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Thu Jun 13 18:02:36 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Thu Jun 13 18:02:35 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Thu Jun 13 18:02:34 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Thu Jun 13 18:02:32 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Thu Jun 13 18:00:51 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Thu Jun 13 18:00:43 2019: 
+UNSCRAMBLED:
+input: fksjfjdjgnrnfjekwfiuuysyhdd
+range: All possible words
+specifics: 
+count: 1077
+search: 
+*****
+Thu Jun 13 18:00:38 2019: 
+UNSCRAMBLED:
+input: fksjfjdjgnrnfjekwfiuuysyhdd
+range: All possible words
+specifics: 
+count: 1077
+search: 
+*****
+Thu Jun 13 18:00:23 2019: 
+UNSCRAMBLED:
+input: asdads
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Thu Jun 13 18:00:20 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Thu Jun 13 17:51:12 2019: 
+UNSCRAMBLED:
+input: dkcksjfjjejfjrhrhr
+range: All possible words
+specifics: 
+count: 40
+search: 
+*****
+Thu Jun 13 17:50:21 2019: 
+UNSCRAMBLED:
+input: dkcksjfjjejfjrhrhr
+range: All possible words
+specifics: 
+count: 0
+search: Che
+*****
+Thu Jun 13 17:50:18 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Thu Jun 13 17:50:14 2019: 
+UNSCRAMBLED:
+input: dkcksjfjjejfjrhrhr
+range: All possible words
+specifics: 
+count: 2
+search: che
+*****
+Thu Jun 13 17:50:09 2019: 
+UNSCRAMBLED:
+input: dkcksjfjjejfjrhrhr
+range: All possible words
+specifics: 
+count: 40
+search: 
+*****
+Thu Jun 13 17:48:45 2019: 
+UNSCRAMBLED:
+input: jdsjvieuuguejrhrjelf
+range: All possible words
+specifics: 
+count: 0
+search: guy
+*****
+Thu Jun 13 17:48:36 2019: 
+UNSCRAMBLED:
+input: jdsjvieuuguejrhrjelf
+range: All possible words
+specifics: 
+count: 0
+search: guy
+*****
+Thu Jun 13 17:48:29 2019: 
+UNSCRAMBLED:
+input: jdsjvieuuguejrhrjelf
+range: All possible words
+specifics: 
+count: 0
+search: Guy
+*****
+Thu Jun 13 17:48:09 2019: 
+UNSCRAMBLED:
+input: jdsjvieuuguejrhrjelf
+range: All possible words
+specifics: 
+count: 719
+search: 
+*****
+Thu Jun 13 09:13:30 2019: 
+UNSCRAMBLED:
+input: abcdef
+range: All possible words
+specifics: 
+count: 25
+search: 
+*****
+Thu Jun 13 09:13:15 2019: 
+UNSCRAMBLED:
+input: whatever
+range: words with length greater than 4
+specifics: 
+count: 26
+search: 
+*****
+Thu Jun 13 09:12:53 2019: 
+UNSCRAMBLED:
+input: whatever
+range: All possible words
+specifics: 
+count: 92
+search: 
+*****
+Thu Jun 13 09:12:28 2019: 
+UNSCRAMBLED:
+input: wtf
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Wed Jun 12 02:53:45 2019: 
+UNSCRAMBLED:
+input: iealfghalkd
+range: words with length of 5
+specifics: 
+count: 23
+search: 
+*****
+Tue Jun 11 00:30:08 2019: 
+UNSCRAMBLED:
+input: hihiugyj
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Tue Jun 11 00:36:05 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 00:36:56 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 00:37:00 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 00:37:10 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 00:42:23 2019: 
+UNSCRAMBLED:
+input: asdasdasd
+range: All possible words
+specifics: 
+count: 10
+search: 
+*****
+Tue Jun 11 00:44:26 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 00:49:51 2019: 
+UNSCRAMBLED:
+input: asdasdasd
+range: All possible words
+specifics: 
+count: 10
+search: 
+*****
+Tue Jun 11 00:50:09 2019: 
+UNSCRAMBLED:
+input: asdasdasd
+range: All possible words
+specifics: 
+count: 0
+search: dave and busters
+*****
+Tue Jun 11 00:50:20 2019: 
+UNSCRAMBLED:
+input: asdasdasd
+range: All possible words
+specifics: 
+count: 0
+search: dave and busters
+*****
+Tue Jun 11 00:50:31 2019: 
+UNSCRAMBLED:
+input: asdasdasd
+range: All possible words
+specifics: 
+count: 0
+search: dave and busters
+*****
+Tue Jun 11 00:50:36 2019: 
+UNSCRAMBLED:
+input: asdasdasd
+range: All possible words
+specifics: 
+count: 7
+search: ad
+*****
+Tue Jun 11 00:50:39 2019: 
+UNSCRAMBLED:
+input: asdasdasd
+range: All possible words
+specifics: 
+count: 7
+search: ad
+*****
+Tue Jun 11 00:50:41 2019: 
+UNSCRAMBLED:
+input: asdasdasd
+range: All possible words
+specifics: 
+count: 2
+search: add
+*****
+Tue Jun 11 00:50:50 2019: 
+UNSCRAMBLED:
+input: asdasdasd
+range: All possible words
+specifics: 
+count: 10
+search: 
+*****
+Tue Jun 11 00:50:57 2019: 
+UNSCRAMBLED:
+input: asdasdasd
+range: words with length less than 5
+specifics: 
+count: 10
+search: 
+*****
+Tue Jun 11 00:51:02 2019: 
+UNSCRAMBLED:
+input: asdasdasd
+range: words with length less than 3
+specifics: 
+count: 2
+search: 
+*****
+Tue Jun 11 00:51:06 2019: 
+UNSCRAMBLED:
+input: asdasdasd
+range: words with length less than 3
+specifics: 
+count: 1
+search: ad
+*****
+Tue Jun 11 00:51:15 2019: 
+UNSCRAMBLED:
+input: asdafdgdavwe
+range: All possible words
+specifics: 
+count: 80
+search: 
+*****
+Tue Jun 11 00:51:20 2019: 
+UNSCRAMBLED:
+input: asdafdgdavwe
+range: All possible words
+specifics: 
+count: 5
+search: add
+*****
+Tue Jun 11 00:53:04 2019: 
+UNSCRAMBLED:
+input: sadgger
+range: All possible words
+specifics: 
+count: 68
+search: 
+*****
+Tue Jun 11 00:53:12 2019: 
+UNSCRAMBLED:
+input: asfwe
+range: All possible words
+specifics: 
+count: 13
+search: 
+*****
+Tue Jun 11 00:53:16 2019: 
+UNSCRAMBLED:
+input: awfhtqe
+range: All possible words
+specifics: 
+count: 35
+search: 
+*****
+Tue Jun 11 00:53:41 2019: 
+UNSCRAMBLED:
+input: ygr
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 00:53:55 2019: 
+UNSCRAMBLED:
+input: wdawfsergdrgh
+range: All possible words
+specifics: 
+count: 256
+search: 
+*****
+Tue Jun 11 00:56:34 2019: 
+UNSCRAMBLED:
+input: yguihh
+range: All possible words
+specifics: 
+count: 7
+search: 
+*****
+Tue Jun 11 00:56:35 2019: 
+UNSCRAMBLED:
+input: asdasdasd
+range: All possible words
+specifics: 
+count: 10
+search: 
+*****
+Tue Jun 11 01:02:31 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Tue Jun 11 01:02:41 2019: 
+UNSCRAMBLED:
+input: acegsa
+range: All possible words
+specifics: 1st is a<br><br>2nd is c
+count: 2
+search: 
+*****
+Tue Jun 11 01:02:48 2019: 
+UNSCRAMBLED:
+input: acegsa
+range: words with length less than 2
+specifics: 1st is a<br><br>2nd is c
+count: 0
+search: 
+*****
+Tue Jun 11 01:02:59 2019: 
+UNSCRAMBLED:
+input: acegsa
+range: words with length greater than 2
+specifics: 1st is a<br><br>2nd is c
+count: 2
+search: 
+*****
+Tue Jun 11 01:03:02 2019: 
+UNSCRAMBLED:
+input: acegsa
+range: words with length greater than 3
+specifics: 1st is a<br><br>2nd is c
+count: 1
+search: 
+*****
+Tue Jun 11 01:03:07 2019: 
+UNSCRAMBLED:
+input: acegsa
+range: words with length of 4
+specifics: 1st is a<br><br>2nd is c
+count: 1
+search: 
+*****
+Tue Jun 11 01:03:10 2019: 
+UNSCRAMBLED:
+input: acegsa
+range: words with length of 4
+specifics: 1st is a<br><br>2nd is c
+count: 1
+search: 
+*****
+Tue Jun 11 01:03:15 2019: 
+UNSCRAMBLED:
+input: acegsa
+range: words with length of 4
+specifics: 1st is a<br><br>2nd is c
+count: 0
+search: 
+*****
+Tue Jun 11 01:21:24 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Tue Jun 11 01:21:37 2019: 
+UNSCRAMBLED:
+input: asdsad
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Tue Jun 11 01:22:57 2019: 
+UNSCRAMBLED:
+input: asdad
+range: All possible words
+specifics: 
+count: 8
+search: 
+*****
+Tue Jun 11 01:24:15 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 01:24:20 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 01:24:26 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Tue Jun 11 01:24:42 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Tue Jun 11 01:24:54 2019: 
+UNSCRAMBLED:
+input: sefsef
+range: All possible words
+specifics: 
+count: 5
+search: 
+*****
+Tue Jun 11 01:25:17 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 01:25:39 2019: 
+UNSCRAMBLED:
+input: unscramble
+range: All possible words
+specifics: 
+count: 449
+search: 
+*****
+Tue Jun 11 01:25:47 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 01:26:37 2019: 
+UNSCRAMBLED:
+input: asdasdasd
+range: All possible words
+specifics: 
+count: 10
+search: 
+*****
+Tue Jun 11 01:27:17 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Tue Jun 11 01:27:35 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 01:28:23 2019: 
+UNSCRAMBLED:
+input: sefsef
+range: All possible words
+specifics: 
+count: 5
+search: 
+*****
+Tue Jun 11 01:28:24 2019: 
+UNSCRAMBLED:
+input: sefsef
+range: All possible words
+specifics: 
+count: 5
+search: 
+*****
+Tue Jun 11 01:28:29 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 01:28:30 2019: 
+UNSCRAMBLED:
+input: sefsef
+range: All possible words
+specifics: 
+count: 5
+search: 
+*****
+Tue Jun 11 01:28:46 2019: 
+UNSCRAMBLED:
+input: sefsef
+range: All possible words
+specifics: 
+count: 5
+search: 
+*****
+Tue Jun 11 01:29:00 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 01:29:05 2019: 
+UNSCRAMBLED:
+input: sefsef
+range: All possible words
+specifics: 
+count: 5
+search: 
+*****
+Tue Jun 11 01:29:08 2019: 
+UNSCRAMBLED:
+input: sefsef
+range: All possible words
+specifics: 
+count: 5
+search: 
+*****
+Tue Jun 11 01:29:24 2019: 
+UNSCRAMBLED:
+input: buhuiho
+range: All possible words
+specifics: 
+count: 10
+search: 
+*****
+Tue Jun 11 01:33:42 2019: 
+UNSCRAMBLED:
+input: djdnndnf
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 01:33:45 2019: 
+UNSCRAMBLED:
+input: djdnndnf
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 01:33:54 2019: 
+UNSCRAMBLED:
+input: ssewfsg
+range: All possible words
+specifics: 
+count: 5
+search: 
+*****
+Tue Jun 11 01:33:57 2019: 
+UNSCRAMBLED:
+input: djdnndnf
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 01:53:54 2019: 
+UNSCRAMBLED:
+input: nsjdwkbasdl
+range: words with length less than 5 AND greater than 3
+specifics: 
+count: 42
+search: 
+*****
+Tue Jun 11 01:55:15 2019: 
+UNSCRAMBLED:
+input: shhhdnbdjoqplooo
+range: All possible words
+specifics: 
+count: 118
+search: 
+*****
+Tue Jun 11 01:56:13 2019: 
+UNSCRAMBLED:
+input: shhhdnbdjoqplooo
+range: words with length less than 5
+specifics: 5th is s
+count: 87
+search: 
+*****
+Tue Jun 11 02:00:10 2019: 
+UNSCRAMBLED:
+input: a s e 
+range: words with length of 2
+specifics: 1st is a 2:s 3:e
+count: 0
+search: 
+*****
+Tue Jun 11 02:05:41 2019: 
+UNSCRAMBLED:
+input: jdjjsd
+range: words with length less than 7
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 02:05:50 2019: 
+UNSCRAMBLED:
+input: jdjjsaaeuilod
+range: words with length less than 7
+specifics: 
+count: 196
+search: 
+*****
+Tue Jun 11 02:10:22 2019: 
+UNSCRAMBLED:
+input: gbryhyh
+range: All possible words
+specifics: 
+count: 1
+search: 
+*****
+Tue Jun 11 02:43:45 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Tue Jun 11 02:43:58 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Tue Jun 11 02:44:07 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 02:44:39 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 02:44:40 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 02:44:45 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 02:44:56 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 02:45:00 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Tue Jun 11 02:45:04 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Tue Jun 11 02:45:10 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Tue Jun 11 02:45:12 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Tue Jun 11 02:45:23 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Tue Jun 11 02:45:23 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Tue Jun 11 02:46:52 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Tue Jun 11 02:48:00 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 02:48:05 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 02:48:40 2019: 
+UNSCRAMBLED:
+input: asdasd
+range: All possible words
+specifics: 
+count: 9
+search: 
+*****
+Tue Jun 11 02:52:58 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Tue Jun 11 02:53:01 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Tue Jun 11 02:53:04 2019: 
+UNSCRAMBLED:
+input: as
+range: All possible words
+specifics: 
+count: 1
+search: 
+*****
+Tue Jun 11 02:53:30 2019: 
+UNSCRAMBLED:
+input: as
+range: All possible words
+specifics: 
+count: 1
+search: 
+*****
+Tue Jun 11 02:55:44 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Tue Jun 11 02:55:52 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Tue Jun 11 02:56:00 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Tue Jun 11 02:59:48 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Tue Jun 11 03:01:53 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:02:07 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Tue Jun 11 03:04:30 2019: 
+UNSCRAMBLED:
+input: esfsef
+range: All possible words
+specifics: 
+count: 5
+search: 
+*****
+Tue Jun 11 03:12:17 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:13:20 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:18:40 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:22:44 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:22:54 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:24:21 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:24:26 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:24:41 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:24:52 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:27:15 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:34:19 2019: 
+UNSCRAMBLED:
+input: asdsadsad
+range: All possible words
+specifics: 
+count: 10
+search: 
+*****
+Tue Jun 11 03:34:32 2019: 
+UNSCRAMBLED:
+input: aces
+range: All possible words
+specifics: 1st is a<br><br>2nd is c
+count: 2
+search: 
+*****
+Tue Jun 11 03:35:08 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:37:29 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:38:09 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:42:19 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:44:36 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:47:31 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:47:42 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:50:53 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:51:57 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:53:34 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:54:52 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:55:04 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 03:55:07 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: asd
+*****
+Tue Jun 11 03:55:11 2019: 
+UNSCRAMBLED:
+input: asd
+range: All possible words
+specifics: 
+count: 4
+search: 
+*****
+Tue Jun 11 04:01:27 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 04:01:49 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 04:04:16 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 04:05:11 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 04:41:00 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 05:00:04 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 14:43:27 2019: 
+UNSCRAMBLED:
+input: ckid
+range: All possible words
+specifics: 
+count: 3
+search: 
+*****
+Tue Jun 11 14:48:43 2019: 
+UNSCRAMBLED:
+input: ljs;whjjdafhijad
+range: All possible words
+specifics: 
+count: 105
+search: 
+*****
+Tue Jun 11 14:58:58 2019: 
+UNSCRAMBLED:
+input: gfdegbgaf
+range: words with length greater than 1
+specifics: 1st is g<br><br>2nd is f
+count: 0
+search: 
+*****
+Tue Jun 11 22:32:47 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****
+Tue Jun 11 22:44:13 2019: 
+UNSCRAMBLED:
+input: 
+range: All possible words
+specifics: 
+count: 0
+search: 
+*****

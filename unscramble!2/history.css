@@ -1,0 +1,165 @@
+@import
+url('https://fonts.googleapis.com/css?family=Raleway:100,400,700,900');
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 0;
+    height: 100%;
+    margin: 0;
+    background-color: white;
+}
+
+.words {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size:20px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+tr:hover {
+    background-color: #c6c6c6;
+    color: rgb(44, 43, 46);
+}
+
+.words center {
+    font-size: 16px;
+}
+
+.topnav {
+  text-align: left;
+  padding-left: 1%;
+  background-color: #c6c6c6;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  font-family: 'Raleway', sans-serif;
+  font-size: 25px;
+}
+
+label {
+display:block;
+position:relative;
+padding-left:230px;
+}
+
+label > span {
+position:absolute;
+left:0;
+}
+
+input[type="text"]
+{
+    border-radius: 10px;
+    padding: 5px;
+    font-family: 'Raleway', sans-serif;
+    font-size:14px;
+}
+
+#ti
+{
+    width: 15%;
+}
+
+#lt
+{
+    width: 8%;
+}
+
+#gt
+{
+    width: 9%;
+}
+
+#o
+{
+    width: 5%;
+}
+
+#sp
+{
+    width: 8%;
+}
+
+input[type="submit"]
+{
+    background-color: #B9B7C8;
+    padding: 10px;
+    border-radius: 25px;
+    font-family: 'Raleway', sans-serif;
+    font-size:14px;
+    text-align: center;
+}
+
+input[type="submit"]:hover {
+    background-color: rgb(192, 190, 204);
+    color: rgb(44, 43, 46);
+}
+
+.idk {
+    text-align: right;
+}
+
+.idk input[type="submit"]
+{
+    border: 0;
+    background: none;
+    box-shadow: none;
+    border-radius: 0px;
+    text-align: right;
+    font-size: 16px;
+    color: #34363a;
+    background-color: #B9B7C8;
+    padding: 18px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.idk input[type="submit"]:hover {
+    background-color: rgb(192, 190, 204);
+    color: rgb(44, 43, 46);
+}
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 175px;
+  top: 125%;
+  left: 50%; 
+  margin-left: -87.5px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 3px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  opacity: 0;
+  transition: opacity 2s;
+  font-size: 20px;
+  letter-spacing: .25px;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}

@@ -1,0 +1,29 @@
+<DOCTYPE html>
+    <html>
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Unscramble!</title>
+    <link href="login.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+      <div class="topnav">
+        <form name="gohome" method="GET" action="gotohomepage.py">
+          <input name="home" type="image" src="logo4.PNG" alt="Submit" width="200" height="40">
+        </form>
+      </div>
+        <h1>
+            Login
+        </h1>
+        <form name="input" method="POST" action="login2.py">
+            <input name="username" type="text" placeholder="Type in your username">
+            <br>
+            <br>
+            <input name="password" type="password" placeholder="Type in your password">
+            <br>
+            <br>
+            <input name="login" type="submit" value="Login">
+            <input name="olduserpass" type="hidden" value="0">
+        </form>
+    </body>
+    </html>

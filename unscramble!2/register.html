@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Unscramble!</title>
+    <link href="register.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+      <div class="topnav">
+        <form name="gohome" method="GET" action="gotohomepage.py">
+          <input name="home" type="image" src="logo4.PNG" alt="Submit" width="200" height="40">
+        </form>
+      </div>
+        <h1>
+            Register
+        </h1>
+        <form name="input" method="POST" action="register2.py">
+            <input name="username" type="text" placeholder="Type in a username">
+            <br>
+            <br>
+            <input name="password" type="password" placeholder="Type in a password">
+            <br>
+            <br>
+            <input name="register" type="submit" value="Register">
+            <input name="newuserpass" type="hidden" value="0">
+        </form>
+    </body>
+    </html>
